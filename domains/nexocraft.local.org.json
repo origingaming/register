@@ -1,0 +1,18 @@
+{
+    "description": "Minecraft And Website",
+
+    "domain": "is-local.org",
+    "subdomain": "nexocraft",
+
+    "owner": {
+        "repo": "https://github.com/origingaming/register/",
+        "email": "takshal.0000@gmail.com"
+    },
+
+    "record": {
+        "SRV": [
+            { "priority": 1, "weight": 60, "port": 25620, "target": "eu01.ertix.ovh" }
+    },
+
+    "proxied": false
+}
